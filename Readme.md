@@ -12,6 +12,32 @@ A web-based AI customer support chatbot using Flask (Python) for backend and a m
 - Flask backend connected to Gemini (Generative AI)
 - Easy environment variable config
 
-## Project Structure
+
+5. **Open Frontend**
+Visit `http://localhost:5000` in your browser.
+
+## Files Overview
+
+| File         | Description                                      |
+|--------------|--------------------------------------------------|
+| app.py       | Flask backend, Gemini integration                |
+| chatbot.html | Frontend UI for customer support chat            |
+| .env         | API keys and environment configuration           |
+
+## Usage
+
+- Ask questions using the chat interface.
+- Use quick help topic buttons for common queries.
+- Responses come from the AI backend or predefined answers.
+
+## Screenshots
+
+*Chatbot UI Example:*
+
+[image:1]
+[image:2]
+
+---
+
 
 
