@@ -30,14 +30,9 @@ Visit `http://localhost:5000` in your browser.
 - Use quick help topic buttons for common queries.
 - Responses come from the AI backend or predefined answers.
 
-## Screenshots
 
-*Chatbot UI Example:*
 
-[image:1]
-[image:2]
 
----
 
 
 
