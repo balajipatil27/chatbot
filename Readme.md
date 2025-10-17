@@ -1,6 +1,7 @@
 # AI Support Assistant Chatbot
 
-<img width="1911" height="917" alt="image" src="https://github.com/user-attachments/assets/43b65fe2-77af-4ee3-a6fb-8eb6608a06f5" />
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/40da70b5-0fa1-4f49-b479-d3c9999b5ea6" />
+
 
 A web-based AI customer support chatbot using Flask (Python) for backend and a modern HTML/CSS/JS frontend.
 
